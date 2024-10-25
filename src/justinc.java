@@ -11,6 +11,8 @@ public class justinc {
         if (9 + 10 == 21) {
             System.out.println("9 + 10 is 21");
         } else
-            System.out.println("9 + 10 is not 21");
+            System.out.println("9 + 10 is not 21, so it is false");
+        System.out.println("brooklyn tech has " + (num -1) + " floors");
+        System.out.println("Ok bye");
     }
 }
