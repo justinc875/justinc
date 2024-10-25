@@ -14,5 +14,6 @@ public class justinc {
             System.out.println("9 + 10 is not 21, so it is false");
         System.out.println("brooklyn tech has " + (num -1) + " floors");
         System.out.println("Ok bye");
+        System.out.println(junior);
     }
 }
